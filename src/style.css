@@ -3,4 +3,27 @@
 }
 body {
     margin: 0%;
+    font-family: 'Karla', sans-serif;
+}
+
+nav {
+    height: 65px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    color: white;
+}
+.nav--troll {
+    height: 26px;
+    padding-right: 7px;
+}
+.nav--info {
+    margin-left: auto;
+    font-size: 12px;
+}
+.nav--title {
+    letter-spacing: -0.1em;
+    font-size: 20px;
+    font-weight: 700;
 }
