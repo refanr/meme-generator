@@ -54,6 +54,6 @@ main {
 }
 .meme {
     padding-top: 39px;
-    width: 80%;
+    max-width: 100%;
 
 }
